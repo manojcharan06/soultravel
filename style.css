@@ -38,7 +38,7 @@ html, body {
 }
 
 #nav1 h1{
-    font-size: 30px;
+    font-size: 2.5vw;
     text-transform: uppercase;
     font-family: League Gothic;
     letter-spacing: 1px;
@@ -46,7 +46,7 @@ html, body {
 }
 
 #nav1 h2{
-    font-size: 30px;
+    font-size: 2.5vw;
     text-transform: uppercase;
     font-family: League Gothic;
     letter-spacing: 1px;
@@ -190,7 +190,7 @@ html, body {
 }
 
 #text1 h1{
-    font-size: 75px;
+    font-size: 6.25vw;
     text-transform: uppercase;
     font-family: League Gothic;
     letter-spacing: 2px;
@@ -234,12 +234,12 @@ html, body {
 
 #text3 h5{
     color: gray;
-    font-size: smaller;
+    font-size: 1.25vw;
     margin: 5px;
 }
 
 #text3 i{
-    font-size: 15px;
+    font-size: 1.1vw;
 }
 
 #text3 a{
@@ -269,14 +269,14 @@ html, body {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    font-size: larger;
+    font-size: 1.6vw;
     box-shadow: 0px 0px 5px 2px rgb(185, 183, 183);
     border-radius: 5px;
     cursor: pointer;
 }
 
 .extra h6{
-    font-size: 15px;
+    font-size: 1.25vw;
 }
 
 #one{
